@@ -3,3 +3,5 @@ learning @@
 
 Thought of the day:
 Coding is difficult T^T
+
+What happened
